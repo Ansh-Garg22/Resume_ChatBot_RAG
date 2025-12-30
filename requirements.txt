@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+langchain>=0.0.300
+chromadb>=0.3.27
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=1.13.0
+pymupdf>=1.22.0
+python-dotenv
+requests
+tqdm
+pydantic
